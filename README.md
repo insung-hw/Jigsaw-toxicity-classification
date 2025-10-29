@@ -4,8 +4,6 @@
 This project is a small study based on the Jigsaw Toxicity Classification competition on Kaggle, focusing on NLP and LLM fine-tuning.
 My goal is to reproduce a top-10 score from the past competition.
 
----
-
 ## 🛠️ Tech Stack
 | Category | Tools |
 |-----------|--------|
@@ -16,12 +14,9 @@ My goal is to reproduce a top-10 score from the past competition.
 | Experiment Tracking | Weights & Biases (W&B) |
 | Environment | Jupyter Notebook / Colab / Kaggle |
 
----
-
 ## 🧩 System Architecture
 Here is a simple diagram of how the system works:
 
-```text
           +------------------------+
           |  Raw Text Data         |
           +-----------+------------+
@@ -47,3 +42,7 @@ Here is a simple diagram of how the system works:
           +------------------------+
           |  Inference / Scoring   |
           +------------------------+
+
+## 🎨 Demo / Results
+
+
